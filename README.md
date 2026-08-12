@@ -78,10 +78,9 @@ turning raw PoCs into reproducible traffic and real-world detection rules.
 ### 📫 Connect
 
 <p align="left">
-  <!-- 아래 링크에 실제 URL을 채워주세요 -->
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Blog-004225?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/WOOOOONG"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://wooooong.github.io/"><img src="https://img.shields.io/badge/Blog-004225?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+  <a href="mailto:woong3164@naver.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
